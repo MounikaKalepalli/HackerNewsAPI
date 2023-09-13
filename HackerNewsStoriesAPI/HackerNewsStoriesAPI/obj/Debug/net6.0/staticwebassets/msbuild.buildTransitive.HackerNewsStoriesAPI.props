@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HackerNewsStoriesAPI.props" />
+</Project>
